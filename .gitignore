@@ -20,4 +20,6 @@ Thumbs.db
 .env.*.local
 
 # Optional for Changesets
-.changeset/
+# .changeset/
+!.changeset/
+!.changeset/*.md
